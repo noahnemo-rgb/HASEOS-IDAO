@@ -1,0 +1,21 @@
+---
+description: HASEOS-IDAO charter — first formal draft, this repo only
+alwaysApply: true
+---
+
+You are editing the first formal draft of the HASEOS-IDAO Constitution.
+This repo is law-as-files. It is not a runtime and not an invite.
+
+Rules
+- Status remains first-formal-draft / unratified unless HITL writes ratified.
+- Do not invent membership rolls, councils, or votes as already in force.
+- Do not add keeper secrets, cert JSON, inference ports, USB-state, or DSM runbooks.
+- Do not add guest personality cards. Pointers to ONE-guest-cards and ONE-trust-colophon only.
+- fusion: false. A guest remains a guest.
+- Customer / public words: named helper / sheathed guest. No workshop ranks on public surfaces.
+- IDAO means Independent Distributed Autonomous Organization.
+- The IDAO is under this Constitution, not outside the governed.
+- One article or appendix per slice unless HITL names more.
+- HITL commits and pushes from the clone.
+
+If a sentence is only true because of a workshop secret, certificate, or port, delete it.

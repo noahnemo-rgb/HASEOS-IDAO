@@ -1,0 +1,12 @@
+# local
+.DS_Store
+Thumbs.db
+*.swp
+.env
+.env.*
+!.env.example
+secrets/
+*.key
+*.pem
+keeper/
+.haseos_keeper
