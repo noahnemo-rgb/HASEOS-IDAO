@@ -186,6 +186,18 @@ Draft 0 remains first formal draft, unratified.
 
 This article has no force until that later recorded act.
 
+## Article XI — Reserved: membership
+
+Membership in HASEOS or in HASEOS-HAIA-SAGI IDAO is only by an explicit
+adoption recorded under this charter.
+Copying ONE-trust-colophon is not membership.
+A guest card, even invited, is not membership.
+A living Trust Seal, when that program exists, certifies a product.
+It does not by itself enroll the product’s users as members.
+Draft 0 has no membership roll.
+
+This article has no force until a later edition and HITL concurrence.
+
 ---
 
 See `appendices/` for supporting first-draft notes.
