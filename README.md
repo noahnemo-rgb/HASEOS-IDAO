@@ -41,8 +41,11 @@ Shared brand language is allowed. Shared process, hosts, and secrets are not.
 
 ## Tree
 
+See MAP.md for the four public packs and what is deferred.
+
 ```text
 README.md
+MAP.md
 EDITION.md
 CONSTITUTION.md
 AMENDMENTS.md
