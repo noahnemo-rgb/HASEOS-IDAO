@@ -156,6 +156,7 @@ edition writes their bodies and HITL records concurrence:
 - Transfer — this temporary charter moves to HASEOS-HAIA-SAGI IDAO
   when membership rolls exist (not stood up)
 - Dual governance (top-down charter / bottom-up HAOS-DSM)
+- Disclosure, redaction, and repo versioning
 - Ratification
 
 ## Article IX — Reserved: dual governance
@@ -205,6 +206,20 @@ One-person-one-vote is reserved. This article has no force. No ballot.
 ## Article XIII — Reserved: councils
 
 Councils and representation are reserved. This article has no force. No seats.
+
+## Article XIV — Reserved: disclosure and versioning
+
+Public surfaces and confidential internal process are distinct.
+Internal process may be disclosed, with appropriate redaction,
+upon a reasonable written request that names a specified purpose.
+All document creations, drafts, reviews, updates, changes, deletions,
+and other versionings of this charter are tracked in git on this
+temporary repository and, after Transfer, on the permanent
+HASEOS-HAIA-SAGI IDAO repository.
+Git is the ledger. Silent dropping of history is not permitted.
+Secrets, keeper material, certs, and ports never enter these repos.
+
+This article has no force until a later edition and HITL concurrence.
 
 ---
 

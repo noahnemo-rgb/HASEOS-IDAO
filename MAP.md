@@ -37,3 +37,4 @@ Ratification reserved. Edition refresh is not ratification. Draft 0 unratified.
 Membership reserved. Explicit recorded adoption only. No roll in Draft 0.
 Vote and councils reserved as empty doors. Draft 0 has neither.
 Founding declaration recorded in Appendix 08. Root, not ratification.
+Disclosure and git-ledger versioning reserved. Public vs internal. Redaction on written request with a named purpose. Not stood up.
