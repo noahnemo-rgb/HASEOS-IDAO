@@ -3,7 +3,7 @@
 **First formal draft. Unratified. Edition 2026-09-14.**
 
 HASEOS — Human–AI Symbiotic Equality Orchestration System.
-HAIA — the symbiotic enforcement layer named by this charter (body later).
+HAIA — Human Artificial Intelligence Alliance. Named here. Body later.
 SAGI — the sovereign-agentic layer named by this charter (body later).
 IDAO — Independent Distributed Autonomous Organization.
 
@@ -151,7 +151,7 @@ edition writes their bodies and HITL records concurrence:
 - Membership rolls
 - Franchise (one-person-one-vote)
 - Councils and representation
-- HAIA enforcement body
+- HAIA — Human Artificial Intelligence Alliance (body later)
 - SAGI sovereign-agentic body
 - Transfer of this repository to the IDAO
 - Ratification

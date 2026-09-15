@@ -26,3 +26,7 @@ Until HITL says foundations are ready for disclosure:
 - Ratification
 
 Status remains **first formal draft, unratified**.
+
+## Names
+
+HAIA means Human Artificial Intelligence Alliance. Named, not stood up.
