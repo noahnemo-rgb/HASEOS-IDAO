@@ -198,6 +198,14 @@ Draft 0 has no membership roll.
 
 This article has no force until a later edition and HITL concurrence.
 
+## Article XII — Reserved: franchise
+
+One-person-one-vote is reserved. This article has no force. No ballot.
+
+## Article XIII — Reserved: councils
+
+Councils and representation are reserved. This article has no force. No seats.
+
 ---
 
 See `appendices/` for supporting first-draft notes.

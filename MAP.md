@@ -35,3 +35,4 @@ Transfer destination is HASEOS-HAIA-SAGI IDAO. This repo stays temporary until H
 Dual governance reserved: charter above, HAOS-DSM below. Not stood up. Seal program still deferred.
 Ratification reserved. Edition refresh is not ratification. Draft 0 unratified.
 Membership reserved. Explicit recorded adoption only. No roll in Draft 0.
+Vote and councils reserved as empty doors. Draft 0 has neither.
