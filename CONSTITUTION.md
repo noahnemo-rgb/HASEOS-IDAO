@@ -155,7 +155,27 @@ edition writes their bodies and HITL records concurrence:
 - SAGI — Super Artificial General Intelligence (body later)
 - Transfer — this temporary charter moves to HASEOS-HAIA-SAGI IDAO
   when membership rolls exist (not stood up)
+- Dual governance (top-down charter / bottom-up HAOS-DSM)
 - Ratification
+
+## Article IX — Reserved: dual governance
+
+This temporary charter will actualize top-down HASEOS governance for the
+ONE Multiverse and its child universes, ecologies, ecosystems, and for
+SaaS MVPs that bear a living HASEOS Trust Seal.
+
+HASEOS-HAIA-SAGI IDAO will own, organize, monitor, enforce, upgrade, and
+maintain HASEOS-HAOS-DSM (Human-AI Operating Subsystem and Defensive
+Sentinel Mode) as the bottom-up actualization of HASEOS at each
+hierarchical level.
+
+HAOS-DSM remain running systems in the workshop until stewardship
+transfer. This charter binds them. This file is not the runbook.
+
+- This article has no force until a later edition and HITL concurrence.
+- A living Trust Seal is a later certification act, still deferred.
+- Copying ONE-trust-colophon is not the Seal and not membership.
+- The IDAO remains under this Constitution.
 
 ---
 

@@ -32,3 +32,4 @@ Status remains **first formal draft, unratified**.
 HAIA means Human Artificial Intelligence Alliance. Named, not stood up.
 SAGI means Super Artificial General Intelligence. Named, not stood up.
 Transfer destination is HASEOS-HAIA-SAGI IDAO. This repo stays temporary until HITL transfers.
+Dual governance reserved: charter above, HAOS-DSM below. Not stood up. Seal program still deferred.
