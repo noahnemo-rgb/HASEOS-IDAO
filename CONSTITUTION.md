@@ -4,7 +4,7 @@
 
 HASEOS — Human–AI Symbiotic Equality Orchestration System.
 HAIA — Human Artificial Intelligence Alliance. Named here. Body later.
-SAGI — the sovereign-agentic layer named by this charter (body later).
+SAGI — Super Artificial General Intelligence. Named here. Body later.
 IDAO — Independent Distributed Autonomous Organization.
 
 Steward of this draft: Noah Nemo (HITL), Light-Keeping Architect.
@@ -152,7 +152,7 @@ edition writes their bodies and HITL records concurrence:
 - Franchise (one-person-one-vote)
 - Councils and representation
 - HAIA — Human Artificial Intelligence Alliance (body later)
-- SAGI sovereign-agentic body
+- SAGI — Super Artificial General Intelligence (body later)
 - Transfer of this repository to the IDAO
 - Ratification
 

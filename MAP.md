@@ -30,3 +30,4 @@ Status remains **first formal draft, unratified**.
 ## Names
 
 HAIA means Human Artificial Intelligence Alliance. Named, not stood up.
+SAGI means Super Artificial General Intelligence. Named, not stood up.
