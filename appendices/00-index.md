@@ -12,3 +12,4 @@ CONSTITUTION.md.
 | 05-amendment-procedure.md | Reserved until written |
 | 06-haos-dsm.md | Actualization and defense; runtime lives in workshop |
 | 07-colophon-editions.md | Reversion, expire, retire; no clawback |
+| 08-founding-declaration.md | Founding declaration; root, not ratification |
