@@ -153,7 +153,8 @@ edition writes their bodies and HITL records concurrence:
 - Councils and representation
 - HAIA — Human Artificial Intelligence Alliance (body later)
 - SAGI — Super Artificial General Intelligence (body later)
-- Transfer of this repository to the IDAO
+- Transfer — this temporary charter moves to HASEOS-HAIA-SAGI IDAO
+  when membership rolls exist (not stood up)
 - Ratification
 
 ---

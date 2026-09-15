@@ -13,7 +13,7 @@ short_name: HASEOS-IDAO
 plane: charter
 membership_roll: none
 councils: none
-transfer_to_idao: not-yet
+transfer_destination: HASEOS-HAIA-SAGI IDAO (not stood up)
 perishability: >
   This edition is a first formal draft. It expires at the next dated
   edition or after 90 days, whichever comes first. A stale draft is a
