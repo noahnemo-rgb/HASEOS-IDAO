@@ -6,7 +6,7 @@ status: first-formal-draft
 ratified: false
 edition: 2026-09-14
 issued: 2026-09-14
-refreshed: 2026-09-14
+refreshed: 2026-09-15
 steward: Noah Nemo
 organization_name: HASEOS-HAIA-SAGI Independent Distributed Autonomous Organization
 short_name: HASEOS-IDAO

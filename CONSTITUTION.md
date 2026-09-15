@@ -177,6 +177,15 @@ transfer. This charter binds them. This file is not the runbook.
 - Copying ONE-trust-colophon is not the Seal and not membership.
 - The IDAO remains under this Constitution.
 
+## Article X — Reserved: ratification
+
+This draft becomes ratified law only by a later recorded HITL concurrence
+and, after Transfer, by a recorded act of HASEOS-HAIA-SAGI IDAO.
+An edition refresh is not ratification.
+Draft 0 remains first formal draft, unratified.
+
+This article has no force until that later recorded act.
+
 ---
 
 See `appendices/` for supporting first-draft notes.
